@@ -1,0 +1,12 @@
+Open the filmSample.json file in VSCode 
+In the filmSample.json document count how many 
+
+Strings    
+Numbers 
+Booleans 
+Arrays 
+Objects 
+
+can you find ?
+
+Take a maximum of 15 minutes on this exercise.

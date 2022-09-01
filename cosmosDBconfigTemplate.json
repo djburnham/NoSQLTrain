@@ -1,0 +1,6 @@
+{
+	"host": "https://<Your CosmosDB Endpoint>.documents.azure.com:443/",
+	"master_key": "<Your Key - instructor will supply this>",
+    "database_id":  "<Your Database Name- Should be unique and identifiable (to you) >",
+    "container_id": "<Your Container Name - Should be identifiable to you >"
+}
