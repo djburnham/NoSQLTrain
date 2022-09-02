@@ -5,7 +5,7 @@ Exercise files for the NoSQL training
 
 |   Directory|Contents   |
 |---|---|
-|  exercise_1 | JSON refresher exercise  |
+|  exercise_files | Exercise instruction files  |
 |  populate_collection | scripts to check environment and populate a cosmosDB container  |
 |   |   |
 
